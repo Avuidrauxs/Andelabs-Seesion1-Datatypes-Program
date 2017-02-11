@@ -1,0 +1,23 @@
+{
+  "name": "Andelabs-Seesion1-Datatypes-Program",
+  "version": "1.0.0",
+  "description": "a function called *dataTypes* to compare and return results, based on the argument supplied to the function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avuidrauxs/Andelabs-Seesion1-Datatypes-Program.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avuidrauxs/Andelabs-Seesion1-Datatypes-Program/issues"
+  },
+  "homepage": "https://github.com/Avuidrauxs/Andelabs-Seesion1-Datatypes-Program#readme",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
